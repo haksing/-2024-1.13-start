@@ -36,5 +36,11 @@
     <ClCompile Include="linkedlist myself.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Double_Linked-List.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="지성FileName.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
